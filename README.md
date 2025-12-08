@@ -1,6 +1,6 @@
 <!-- 🌟 PROFILE HEADER -->
 
-  <img src=bn.png />
+  <img src=https://github.com/BackamDavid/my-banner/blob/bca38560a2c13efca41e082f6b9679165aeecbaf/bn.png/>
 
 
 ---
