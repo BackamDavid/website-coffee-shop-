@@ -1,13 +1,11 @@
 <!-- 🌟 PROFILE HEADER -->
-
-  <img src=https://github.com/BackamDavid/my-banner/blob/bca38560a2c13efca41e082f6b9679165aeecbaf/bn.png/>
-
+<img src="YOUR_IMAGE_URL_HERE" width="100%" />
 
 ---
 
 # 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/David Backam S"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://linkedin.com/in/DavidBackamS"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   &nbsp;&nbsp;
   <a href="mailto:dbackam8@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
@@ -89,4 +87,4 @@
 
 ---
 
-<h3 align="center">🔥 Crafted with passion, creativity, and clean code ⚡</h3>
+<h3 align="center">🔥 Crafted with passion, creativity, and the colors of my banner ⚡</h3>
