@@ -1,9 +1,7 @@
 <!-- 🌟 PROFILE HEADER -->
-<h1 align="center">✨ Hey, I'm <span style="color:#04d9ff">David Backam S</span> ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Creative+UI%2FUX+Designer;Building+Smart+Digital+Experiences" />
-</p>
+  <img src=bn.png />
+
 
 ---
 
